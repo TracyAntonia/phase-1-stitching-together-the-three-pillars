@@ -14,6 +14,7 @@ const colorStates = {
 // we want to make clickable. Without JavaScript, clicking on these heart shapes
 // does nothing. Uncomment the code and refresh the demo page. 
 
+
 const articleHearts = document.querySelectorAll(".like-glyph");
 
 function likeCallback(e) {
@@ -44,10 +45,12 @@ function likeCallback(e) {
 
 // STEP 4: 
 
+
 // When all the STEPs' code changes have been complete, you'll be able to see a
 // working demonstration of our reference example. Sure, it's maybe not as
 // pretty as a professional site, but they're only different from our site in
 // style, not substance.
+
 
 //------------------------------------------------------------------------------
 // Ignore after this point. Used only for demo purposes
